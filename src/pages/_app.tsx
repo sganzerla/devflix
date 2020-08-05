@@ -7,18 +7,12 @@ function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Devflix</title>
+        <title>Netcheflix</title>
         <link rel="shortcut icon" href="/img/icon-512.png" />
         <link rel="apple-touch-icon" href="/img/icon-512.png" />
         <link rel="manifest" href="/manifest.json" />
-        <meta
-          name="og:image"
-          content="https://devflix.johnywalves.com.br/img/thumbnail.png"
-        />
-        <meta
-          name="description"
-          content="Plataforma para compartilhamento de conhecimento sobre desenvolvimento de software em língua brasileira"
-        />
+        <meta name="og:image" content="public/img/thumbnail.png" />
+        <meta name="description" content="Live Show do Guri" />
         <link
           rel="stylesheet"
           href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css"

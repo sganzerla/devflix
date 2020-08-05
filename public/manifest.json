@@ -1,6 +1,6 @@
 {
-  "name": "Devflix",
-  "short_name": "Devflix",
+  "name": "Netcheflix",
+  "short_name": "Netcheflix",
   "icons": [
     {
       "src": "/img/icon-192.png",
@@ -14,7 +14,7 @@
     }
   ],
   "background_color": "#06092B",
-  "description": "Plataforma para compartilhamento de conhecimento sobre desenvolvimento de software em língua brasileira",
+  "description": "Filmes, séries e muito mais. Sem limites. Assista onde quiser. Divulgação de conteúdo do mito Guri de Uruguaiana uma lenda da cultura gaúcha.",
   "display": "fullscreen",
   "start_url": "/",
   "theme_color": "#06092B"

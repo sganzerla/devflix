@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { Container, Explain, Title, Description, Draw, Logo } from './styles'
+import { Container, Explain, Title, Draw, Logo } from './styles'
 
 const BannerFronthead = () => {
   return (
@@ -8,43 +8,10 @@ const BannerFronthead = () => {
       <Explain>
         <Logo id="logo_forehead" src="/img/logo.png" />
         <Title>
-          Plataforma para compartilhamento de conhecimento sobre{' '}
-          <span>desenvolvimento</span> de software em língua brasileira
+          Filmes, séries e muito mais. Sem limites. Assista onde quiser.
+          Divulgação de conteúdo do mito <span>Guri de Uruguaiana</span> uma
+          lenda da cultura gaúcha.
         </Title>
-        <Description>
-          Desenvolvido por{' '}
-          <a href="https://johnywalves.com.br" target="_blank" rel="noreferrer">
-            Johny W. Alves
-          </a>{' '}
-          durante a{' '}
-          <a href="https://alura.com.br" target="_blank" rel="noreferrer">
-            Imersão React da Alura
-          </a>{' '}
-          com a orientação do{' '}
-          <a
-            href="https://www.linkedin.com/in/omariosouto/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            Mario Souto
-          </a>
-          ,{' '}
-          <a
-            href="https://www.linkedin.com/in/juliananegreiros/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            Juliana Negreiros
-          </a>{' '}
-          e{' '}
-          <a
-            href="https://www.linkedin.com/in/marcobrunobr/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            Marco Bruno
-          </a>
-        </Description>
       </Explain>
       <Draw
         id="b02f0796-e5a2-4f93-9b0b-1e5532738db1"

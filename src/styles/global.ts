@@ -22,7 +22,7 @@ const GlobalStyles = createGlobalStyle`
     }
 
     body {
-        --primary: #ec1d8c;
+        --primary: #DB202C;
         --black: #3a3a3a;
         --blackLighter: #9E9E9E;
         --grayLight: #F5F5F5;
@@ -39,7 +39,7 @@ const GlobalStyles = createGlobalStyle`
     }
 
     body.dark {
-        --primary: #ec1d8c;
+        --primary: #DB202C;
         --black: #FFFFFF;
         --blackLighter: #DFDFDF;
         --grayLight: #F5F5F5;
